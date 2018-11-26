@@ -1,0 +1,5 @@
+.print {
+  background-image: -moz-element(); }
+
+hover {
+  background-color: aquamarine; }
